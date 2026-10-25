@@ -1,7 +1,7 @@
 [project]
 name = "mini-rag"
 version = "0.1.0"
-description = "Add your description here"
+description = "Modular RAG backend: document ingestion, chunking, MongoDB metadata, Qdrant vector index and answers through pluggable LLM providers (OpenAI, Groq, Cohere). FastAPI, LangChain, Docker."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
